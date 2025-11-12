@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.streamlit/
+cnh_storage_state.json
+chrome_profile/
+.DS_Store
+~$*
+!srt_database.json
